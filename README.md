@@ -212,3 +212,7 @@ nim c -r main.nim
 ❌ Antivírus bloqueando
 
 ✔️ Permita o programa (às vezes acontece no Windows)
+
+VÍDEO DO DESENVOLVIMENTO:
+
+https://www.youtube.com/watch?v=V-gpFIVDUGA
