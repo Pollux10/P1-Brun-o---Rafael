@@ -222,3 +222,11 @@ nim c -r main.nim
 ## Vídeo do desenvolvimento:
 
 https://www.youtube.com/watch?v=V-gpFIVDUGA
+
+## Ferramentas e tecnologuas de apoio
+
+-Chat GPT
+-Visual Studio Code
+-Capcut
+-OBS
+-Youtube
