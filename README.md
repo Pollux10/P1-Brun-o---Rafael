@@ -1,11 +1,11 @@
-📚 Trabalho P1 – Estrutura de Dados
+## 📚 Trabalho P1 – Estrutura de Dados
 Sistema de Gerenciamento de Fila de Atendimento
-👨‍🏫 Objetivo
+## 👨‍🏫 Objetivo
 
 Desenvolver um sistema simples que simule uma fila de atendimento, utilizando obrigatoriamente o conceito de lista encadeada *.
 
 O objetivo do trabalho é avaliar a compreensão de estruturas de dados dinâmicas e sua adaptação a diferentes linguagens de programação.
-🧩 Contexto do Problema
+## 🧩 Contexto do Problema
 
 Você deverá implementar um sistema que simula uma fila de atendimento, como por exemplo:
 
@@ -14,7 +14,7 @@ Você deverá implementar um sistema que simula uma fila de atendimento, como po
     Atendimento em suporte técnico
     Restaurante ou fila de pedidos
 
-⚙️ Funcionalidades obrigatórias
+## ⚙️ Funcionalidades obrigatórias
 
 O sistema deve permitir:
 
@@ -24,7 +24,7 @@ O sistema deve permitir:
     Buscar pessoa na fila
     Contar quantidade de elementos
 
-🧠 Requisito Obrigatório
+## 🧠 Requisito Obrigatório
 
 A estrutura de dados DEVE ser implementada manualmente como lista encadeada.
 
@@ -39,14 +39,14 @@ A estrutura de dados DEVE ser implementada manualmente como lista encadeada.
     Referência para o próximo elemento
     Controle da lista (head)
 
-🖥️ Interface
+## 🖥️ Interface
 
 Você pode escolher:
 
     Interface via terminal (CLI) - mais fácil
     Interface web simples - mais complexa tem pontuação extra
 
-👨‍💻 Linguagens por aluno
+## 👨‍💻 Linguagens por aluno
 
 Cada aluno deverá implementar o sistema na linguagem escolhida:
 
@@ -58,7 +58,7 @@ Cada aluno deverá implementar o sistema na linguagem escolhida:
     Alberto → Julia
     Caio → Lean
 
-🧠 Sobre ponteiros e referências
+## 🧠 Sobre ponteiros e referências
 
 Nem todas as linguagens utilizam ponteiros da mesma forma.
 
@@ -71,7 +71,8 @@ Elixir 	Estrutura recursiva imutável
 Nim 	Ponteiros ou referências (ref)
 Julia 	Estruturas mutáveis com referência
 Lean 	Tipo indutivo recursivo
-📦 Entrega
+
+## 📦 Entrega
 🔹 Estrutura
 
 Será utilizado um modelo com repositórios:
@@ -109,9 +110,9 @@ Material de auxilio
 
 Nesse mesmo repositório, há um arquivo langs.md com dicas de como criar listas encadeadas em cada uma das linguagens a serem utilizadas. deverá ser utilizado os exemplos como base para implementação do enunciado.
 
-📋 Sistema de Fila - Trabalho 1 (Nim) 🚀
+## 📋 Sistema de Fila - Trabalho 1 (Nim) 🚀
 
-📥 Instalação do Nim (Guia Completo)
+## 📥 Instalação do Nim (Guia Completo)
 
 🖥️ 1. Requisitos do sistema
 
@@ -218,6 +219,6 @@ nim c -r main.nim
 
 ✔️ Permita o programa (às vezes acontece no Windows)
 
-VÍDEO DO DESENVOLVIMENTO:
+## Vídeo do desenvolvimento:
 
 https://www.youtube.com/watch?v=V-gpFIVDUGA
