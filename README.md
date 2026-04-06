@@ -112,6 +112,7 @@ Nesse mesmo repositório, há um arquivo langs.md com dicas de como criar listas
 📋 Sistema de Fila - Trabalho 1 (Nim) 🚀
 
 📥 Instalação do Nim (Guia Completo)
+
 🖥️ 1. Requisitos do sistema
 
 Antes de instalar, a máquina precisa ter:
@@ -129,11 +130,13 @@ O Nim depende de um compilador C para funcionar.
 No Windows, vamos instalar isso automaticamente com uma ferramenta.
 
 💻 2. Instalação no Windows (PASSO A PASSO COMPLETO)
+
 🔽 Passo 1 — Baixar o instalador
 Acesse o site oficial:
 👉 https://nim-lang.org/install.html
 Clique na opção:
 “Windows” → “Install with choosenim”
+
 ⚙️ Passo 2 — Baixar o choosenim
 Baixe o arquivo:
 choosenim-*-windows_amd64.exe
@@ -172,6 +175,7 @@ Crie um arquivo chamado:
 main.nim
 ✍️ Passo 2 — Escrever código
 echo "Olá, mundo!"
+
 ▶️ Passo 3 — Executar
 
 No terminal, vá até a pasta do arquivo e rode:
