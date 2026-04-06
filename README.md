@@ -109,7 +109,7 @@ Material de auxilio
 
 Nesse mesmo repositório, há um arquivo langs.md com dicas de como criar listas encadeadas em cada uma das linguagens a serem utilizadas. deverá ser utilizado os exemplos como base para implementação do enunciado.
 
-COMO INSTALAR O NIM
+📋 Sistema de Fila - Trabalho 1 (Nim) 🚀
 
 📥 Instalação do Nim (Guia Completo)
 🖥️ 1. Requisitos do sistema
