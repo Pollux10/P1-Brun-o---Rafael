@@ -149,6 +149,7 @@ Instalar o Nim
 Configurar variáveis de ambiente
 Instalar o gerenciador de pacotes (nimble)
 Baixar o compilador necessário
+
 🔁 Passo 4 — Reiniciar o terminal
 
 Depois da instalação:
